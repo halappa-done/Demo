@@ -2,7 +2,7 @@ spring:
    datasurce:
       url: jdbc:h2:file:~/userDbt
       username: sa
-      password: ""
+      password: 
    driver-class-name: org.h2.Driver
    h2:
       console:
